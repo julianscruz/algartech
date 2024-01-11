@@ -1,0 +1,16 @@
+{
+  "name": "prueba",
+  "version": "1.0.0",
+  "description": "prueba entrevista",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "julian s cruz <julianscruz@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1533.0",
+    "uuid": "^9.0.1",
+    "uuidv4": "^6.2.13"
+  }
+}
